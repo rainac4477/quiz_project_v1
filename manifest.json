@@ -1,12 +1,12 @@
 {
-    "theme_color": "#090909",
-    "background_color": "#ffffff",
+    "theme_color": "#f69435",
+    "background_color": "#9bc6ee",
     "display": "standalone",
     "scope": "/",
-    "start_url": "/index.html",
-    "name": "Star Trek The Next Generation Quiz",
-    "short_name": "ST Quiz",
-    "description": "A quiz about Star Trek The Next Generation TV Show.",
+    "start_url": "/",
+    "name": "Random Trivia Quiz",
+    "short_name": "Trivia",
+    "description": "10 questions of random knowledge",
     "icons": [
         {
             "src": "icons/icon-192x192.png",
